@@ -1,0 +1,8 @@
+server:
+  port: 20000
+spring:
+  profiles:
+    active: dev
+logging:
+  level:
+    root: trace
