@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 @RestControllerAdvice
 @Slf4j
 public class GlobalControllerExceptionHandler {
-
     /**
      * 处理业务异常
      */

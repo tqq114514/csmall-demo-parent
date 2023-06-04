@@ -5,15 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>csmall-for-jsd-business</module>
-        <module>csmall-for-jsd-cart</module>
-        <module>csmall-for-jsd-order</module>
-        <module>csmall-for-jsd-stock</module>
         <module>csmall-for-jsd-commons</module>
-        <module>csmall-for-jsd-stock/csmall-for-jsd-stock-service</module>
-        <module>csmall-for-jsd-stock/csmall-for-jsd-stock-adapter</module>
-        <module>csmall-for-jsd-cart/csmall-for-jsd-cart-service</module>
-        <module>csmall-for-jsd-cart/csmall-for-jsd-cart-adapter</module>
+        <module>csmall-for-jsd-all</module>
+        <module>csmall-for-jsd-all/csmall-for-jsd-all-adapter</module>
+        <module>csmall-for-jsd-all/csmall-for-jsd-all-service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
