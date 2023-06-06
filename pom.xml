@@ -9,6 +9,10 @@
         <module>csmall-for-jsd-all</module>
         <module>csmall-for-jsd-all/csmall-for-jsd-all-adapter</module>
         <module>csmall-for-jsd-all/csmall-for-jsd-all-service</module>
+        <module>csmall-for-jsd-order</module>
+        <module>csmall-for-jsd-stock</module>
+        <module>csmall-for-jsd-business</module>
+        <module>csmall-for-jsd-cart</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -41,6 +45,7 @@
         <druid.version>1.1.20</druid.version>
         <jjwt.version>0.9.0</jjwt.version>
     </properties>
+    <!--子项目必须使用的依赖-->
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
