@@ -9,6 +9,15 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <modules>
+        <module>csmall-for-jsd-all-adapter</module>
+        <module>csmall-for-jsd-all-service</module>
+    </modules>
+
+    <packaging>pom</packaging>
+
+
+
     <artifactId>csmall-for-jsd-all</artifactId>
 
     <properties>

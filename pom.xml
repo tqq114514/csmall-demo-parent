@@ -7,8 +7,8 @@
     <modules>
         <module>csmall-for-jsd-commons</module>
         <module>csmall-for-jsd-all</module>
-        <module>csmall-for-jsd-all/csmall-for-jsd-all-adapter</module>
-        <module>csmall-for-jsd-all/csmall-for-jsd-all-service</module>
+        <!--<module>csmall-for-jsd-all/csmall-for-jsd-all-adapter</module>
+        <module>csmall-for-jsd-all/csmall-for-jsd-all-service</module>-->
         <module>csmall-for-jsd-order</module>
         <module>csmall-for-jsd-stock</module>
         <module>csmall-for-jsd-business</module>
